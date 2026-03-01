@@ -69,3 +69,13 @@ td {
     padding: 10px;
     border-bottom: 1px solid #ddd;
 }
+body {
+    background-color: #e9eef3;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
